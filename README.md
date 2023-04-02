@@ -3,4 +3,4 @@ To build a hotstar clone project using CSS, HTML, and JavaScript,A Hotstar clone
 
 
 
-click to visit website:
+click to visit website: https://athul-op.github.io/Hotstar_clone/
